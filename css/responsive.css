@@ -541,3 +541,12 @@
   }
 
 }
+
+
+/********************************** Mobile **************************************/
+@media only screen (max-width:420px) and (min-width:220px){
+.header-top {
+    display: none;
+}
+  
+}
