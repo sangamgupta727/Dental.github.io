@@ -749,17 +749,16 @@
 
    .slide-content, .section-title {
     position: relative;
-    bottom: 4em;
+    bottom: 6em;
     width: 100%;
     text-align: center;
 }
 
    .slide-content h1, .home-banner-content h1 {
-    font-size: 28px;
+    font-size: 34px;
     text-align: center;
     /* width: 105%; */
-    line-height: 57px;
-
+    line-height: 51px;
 }
 .slide-content p {
     font-size: 14px;
@@ -816,6 +815,6 @@
     padding-top: 87px;
 }
 .hs-image {
-    margin-top: -53px;
+    /* margin-top: -53px; */
 }
 }
