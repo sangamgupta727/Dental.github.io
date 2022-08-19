@@ -817,4 +817,7 @@
 .hs-image {
     /* margin-top: -53px; */
 }
+  .owl-item.active .hs-image img {
+    margin-top: 0;
+}
 }
