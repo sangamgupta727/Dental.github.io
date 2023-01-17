@@ -3631,7 +3631,7 @@
     .main-menu ul>li>a {
         color: #555555;
         font-family: 'Roboto Condensed', sans-serif;
-        font-size: 14px;
+        font-size: 17px;
         font-weight: 600;
         position: relative;
         text-transform: uppercase;
@@ -3932,6 +3932,10 @@
         font-family: 'Roboto Condensed', sans-serif;
         font-weight: 700;
         color: #fff;
+        position: relative;
+        /* top: -7%; */
+        margin-top: -10%;
+        padding-top: -14%;
         z-index: 99;
     }
 
@@ -3999,7 +4003,7 @@
         animation: fadeInUp 1300ms ease-in-out;
         position: relative;
         /* top: 12%; */
-        margin-top: 19%;
+        margin-top: 8%;
     }
 
     .hs-image {
